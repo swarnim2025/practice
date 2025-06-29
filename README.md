@@ -11,7 +11,6 @@ A collection of C++ and MATLAB implementations for fundamental numerical algorit
 | `NRM.cpp`         | Newton-Raphson Method.                          |
 | `RF.cpp`          | Standard Regula-Falsi Method.                   |
 | `SM.cpp`          | Secant Method.                                  |
-| `itera.cpp`       | Iterative solvers: Jacobi and Gauss-Seidel.     |
 | `gauss_permu.cpp` | Gaussian Elimination with row permutations.     |
 | `swapgauss.cpp`   | Gaussian Elimination with row swapping.         |
 | `mutiNRM.cpp`     | Newton-Raphson for multiple variables.          |
